@@ -1,0 +1,220 @@
+1
+00:00:00,000 --> 00:00:03,500
+Quick question. How many times have you
+opened a recruitment email thread
+
+2
+00:00:03,500 --> 00:00:07,200
+and thought, okay,
+what's the latest here?
+
+3
+00:00:07,400 --> 00:00:10,600
+Because in search,
+the inbox isn't just email.
+
+4
+00:00:10,800 --> 00:00:12,600
+It's the whole project.
+
+5
+00:00:12,700 --> 00:00:17,400
+You've got client updates, candidate
+replies, scheduling changes, feedback loops,
+
+6
+00:00:17,500 --> 00:00:19,600
+salary notes, interview logistics,
+
+7
+00:00:19,800 --> 00:00:25,300
+all buried inside long threads
+with Re: Re: Re: everywhere.
+
+8
+00:00:25,900 --> 00:00:30,600
+And the real work isn't reading one email.
+It's reconstructing the timeline,
+
+9
+00:00:31,000 --> 00:00:34,800
+figuring out what's been decided
+and what needs to happen next.
+
+10
+00:00:35,000 --> 00:00:36,800
+And that's where things slip.
+
+11
+00:00:37,000 --> 00:00:40,000
+A client asks for an updated shortlist
+and it gets missed.
+
+12
+00:00:40,200 --> 00:00:43,800
+A candidate replies with availability
+and nobody confirms.
+
+13
+00:00:44,000 --> 00:00:46,800
+A stakeholder gives feedback
+and it doesn't get logged.
+
+14
+00:00:47,000 --> 00:00:52,600
+Not because anyone's careless, because it's
+too easy to lose the next action in a wall of text.
+
+15
+00:00:53,100 --> 00:00:54,400
+Here's the cleaner way.
+
+16
+00:00:54,500 --> 00:00:59,700
+The workflow watches your search inbox and
+processes threads at the conversation level,
+
+17
+00:00:59,800 --> 00:01:01,900
+not just individual messages.
+
+18
+00:01:02,200 --> 00:01:05,700
+When something changes in a thread,
+it creates a concise summary.
+
+19
+00:01:05,900 --> 00:01:09,500
+What's new, what's been decided,
+and what's still pending.
+
+20
+00:01:09,800 --> 00:01:13,300
+Then it pulls out next actions
+like schedule interview,
+
+21
+00:01:13,500 --> 00:01:17,400
+send CV, request feedback,
+confirm availability,
+
+22
+00:01:17,600 --> 00:01:22,100
+and turns them into a simple task list
+with owners and due dates.
+
+23
+00:01:22,400 --> 00:01:25,900
+No rewriting, no manual
+copy paste into a tracker.
+
+24
+00:01:26,200 --> 00:01:28,600
+It can also draft the next reply for you.
+
+25
+00:01:28,800 --> 00:01:31,900
+Short, professional, and grounded
+in the thread context.
+
+26
+00:01:32,000 --> 00:01:34,700
+So you're not starting from
+a blank screen every time.
+
+27
+00:01:35,000 --> 00:01:36,900
+But it doesn't send anything blindly.
+
+28
+00:01:37,200 --> 00:01:38,600
+You stay in control.
+
+29
+00:01:38,800 --> 00:01:44,100
+If the AI is uncertain, like mixed intent,
+conflicting dates, or unclear feedback,
+
+30
+00:01:44,300 --> 00:01:47,300
+it flags the thread for human review
+instead of guessing.
+
+31
+00:01:47,600 --> 00:01:50,400
+You approve, edit, or reject.
+
+32
+00:01:50,700 --> 00:01:55,900
+And everything is logged so you have a clear
+audit trail of what the workflow summarized and why.
+
+33
+00:01:56,500 --> 00:01:57,700
+And this is important.
+
+34
+00:01:57,900 --> 00:02:00,200
+It's job-related and evidence-based.
+
+35
+00:02:00,500 --> 00:02:03,000
+It summarizes what's actually in the thread.
+
+36
+00:02:03,200 --> 00:02:05,800
+If something isn't stated,
+it doesn't invent it.
+
+37
+00:02:06,000 --> 00:02:08,700
+Quick estimate,
+illustrative assumptions only.
+
+38
+00:02:08,900 --> 00:02:13,900
+If it takes about three minutes to read,
+interpret, and update notes for a busy thread,
+
+39
+00:02:14,100 --> 00:02:16,900
+and this reduces that
+to about one minute of review,
+
+40
+00:02:17,100 --> 00:02:19,600
+that's about two minutes saved per thread.
+
+41
+00:02:20,000 --> 00:02:23,800
+At 200 threads a month,
+that's roughly 400 minutes,
+
+42
+00:02:24,000 --> 00:02:26,000
+around 6.7 hours saved.
+
+43
+00:02:26,200 --> 00:02:29,100
+Again, assumptions,
+not a guaranteed result.
+
+44
+00:02:29,600 --> 00:02:31,600
+Independent portfolio prototype.
+
+45
+00:02:31,900 --> 00:02:35,700
+Fictional data, results vary,
+but the benefit is real.
+
+46
+00:02:36,000 --> 00:02:38,600
+Fewer missed next steps,
+cleaner handoffs,
+
+47
+00:02:38,800 --> 00:02:43,200
+and an inbox that behaves like an organized
+search system, not a memory test.
+

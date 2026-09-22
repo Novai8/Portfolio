@@ -1,0 +1,4 @@
+frames/
+*.wav
+__pycache__/
+check/
