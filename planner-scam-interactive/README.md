@@ -108,11 +108,21 @@ planner-scam-interactive/
 
 ## 📹 Video export
 
-`npm run render:video` records the production build at 1080p and muxes the
-voiceover into `final.mp4`, plus a 10 s `preview.gif` teaser. It requires
-**ffmpeg** and a **Chromium** binary on the machine (the cloud sandbox this
-repo was built in has no ffmpeg and blocks browser/model downloads, so the
-export step is provided as a runnable script for any dev machine/CI runner).
+**`final.mp4` (1080p, 10:32) and `preview.gif` (10 s teaser) are committed** —
+rendered with the offline canvas pipeline:
+
+```bash
+npm run render:offline    # canvas-render every frame → final.mp4 + preview.gif
+```
+
+`scripts/offline/render.mjs` draws all 18 scenes on `@napi-rs/canvas`
+(same 1600×900 design space, scaled to 1920×1080, real Google fonts) and
+streams frames into the `@ffmpeg-installer` ffmpeg muxed with the voiceover —
+no browser required, ~1 minute of wall time. Flags: `--qa` (stills), `--bench`
+(speed estimate), `FPS=` env override.
+
+`npm run render:video` remains as an alternative that screen-records the live
+React app via Puppeteer (needs ffmpeg + a Chromium binary on the machine).
 
 ## 🔊 Sound design
 
