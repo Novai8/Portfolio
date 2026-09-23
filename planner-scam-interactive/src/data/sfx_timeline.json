@@ -1,0 +1,617 @@
+[
+ {
+  "time": 4.07,
+  "sfx": "keyTap",
+  "scene": 1
+ },
+ {
+  "time": 7.21,
+  "sfx": "cerealCrunch",
+  "scene": 1
+ },
+ {
+  "time": 8.3,
+  "sfx": "uiPop",
+  "scene": 1
+ },
+ {
+  "time": 9.3,
+  "sfx": "laughUi",
+  "scene": 1
+ },
+ {
+  "time": 12.56,
+  "sfx": "uiPop",
+  "scene": 2
+ },
+ {
+  "time": 17.05,
+  "sfx": "pageFlip",
+  "scene": 2
+ },
+ {
+  "time": 25.73,
+  "sfx": "stickerPeel",
+  "scene": 2
+ },
+ {
+  "time": 26.43,
+  "sfx": "chuckle",
+  "scene": 2
+ },
+ {
+  "time": 30.41,
+  "sfx": "click",
+  "scene": 3
+ },
+ {
+  "time": 31.81,
+  "sfx": "refreshSwoosh",
+  "scene": 3
+ },
+ {
+  "time": 34.7,
+  "sfx": "tick",
+  "scene": 3
+ },
+ {
+  "time": 36.21,
+  "sfx": "uiPop",
+  "scene": 3
+ },
+ {
+  "time": 38.85,
+  "sfx": "notificationMega",
+  "scene": 4
+ },
+ {
+  "time": 42.09,
+  "sfx": "impactBoom",
+  "scene": 4
+ },
+ {
+  "time": 43.47,
+  "sfx": "countTickLoop",
+  "scene": 4
+ },
+ {
+  "time": 46.75,
+  "sfx": "cashRegister",
+  "scene": 4
+ },
+ {
+  "time": 53.13,
+  "sfx": "silenceWhoosh",
+  "scene": 4
+ },
+ {
+  "time": 57.92,
+  "sfx": "impactBoom",
+  "scene": 4
+ },
+ {
+  "time": 59.42,
+  "sfx": "kaleidoscopeSpin",
+  "scene": 4
+ },
+ {
+  "time": 61.7,
+  "sfx": "heartbeatFast",
+  "scene": 5
+ },
+ {
+  "time": 67.1,
+  "sfx": "nervousLaugh",
+  "scene": 5
+ },
+ {
+  "time": 70.55,
+  "sfx": "typingFast",
+  "scene": 5
+ },
+ {
+  "time": 74.6,
+  "sfx": "dreamyChime",
+  "scene": 5
+ },
+ {
+  "time": 82.89,
+  "sfx": "glitchOut",
+  "scene": 5
+ },
+ {
+  "time": 85.05,
+  "sfx": "mapZoom",
+  "scene": 6
+ },
+ {
+  "time": 88.27,
+  "sfx": "pinDrop",
+  "scene": 6
+ },
+ {
+  "time": 90.44,
+  "sfx": "ominousDrone",
+  "scene": 6
+ },
+ {
+  "time": 97.19,
+  "sfx": "mapZoom",
+  "scene": 6
+ },
+ {
+  "time": 106.32,
+  "sfx": "flagFlutter",
+  "scene": 6
+ },
+ {
+  "time": 110.27,
+  "sfx": "paperCrumple",
+  "scene": 6
+ },
+ {
+  "time": 114.63,
+  "sfx": "pop1",
+  "scene": 7
+ },
+ {
+  "time": 118.38,
+  "sfx": "pop2",
+  "scene": 7
+ },
+ {
+  "time": 124.68,
+  "sfx": "pop3Squeaky",
+  "scene": 7
+ },
+ {
+  "time": 125.68,
+  "sfx": "chuckle",
+  "scene": 7
+ },
+ {
+  "time": 128.97,
+  "sfx": "mergeWhoosh",
+  "scene": 7
+ },
+ {
+  "time": 134.74,
+  "sfx": "typing",
+  "scene": 8
+ },
+ {
+  "time": 137.35,
+  "sfx": "sendSwoosh",
+  "scene": 8
+ },
+ {
+  "time": 141.69,
+  "sfx": "notificationPing",
+  "scene": 8
+ },
+ {
+  "time": 145.87,
+  "sfx": "receive",
+  "scene": 8
+ },
+ {
+  "time": 157.21,
+  "sfx": "errorGlitch",
+  "scene": 8
+ },
+ {
+  "time": 161.42,
+  "sfx": "pinStick",
+  "scene": 9
+ },
+ {
+  "time": 165.53,
+  "sfx": "stringStretch",
+  "scene": 9
+ },
+ {
+  "time": 167.98,
+  "sfx": "paperRustle",
+  "scene": 9
+ },
+ {
+  "time": 170.34,
+  "sfx": "stressRiser",
+  "scene": 9
+ },
+ {
+  "time": 171.94,
+  "sfx": "snapBreak",
+  "scene": 9
+ },
+ {
+  "time": 173.63,
+  "sfx": "roomTransition",
+  "scene": 10
+ },
+ {
+  "time": 174.83,
+  "sfx": "dryLaugh",
+  "scene": 10
+ },
+ {
+  "time": 181.66,
+  "sfx": "phoneRing",
+  "scene": 10
+ },
+ {
+  "time": 184.42,
+  "sfx": "footsteps",
+  "scene": 10
+ },
+ {
+  "time": 185.22,
+  "sfx": "zoomIn",
+  "scene": 10
+ },
+ {
+  "time": 188.48,
+  "sfx": "pickup",
+  "scene": 11
+ },
+ {
+  "time": 189.08,
+  "sfx": "brightVoice",
+  "scene": 11
+ },
+ {
+  "time": 194.87,
+  "sfx": "typingFast",
+  "scene": 11
+ },
+ {
+  "time": 201.02,
+  "sfx": "laugh",
+  "scene": 11
+ },
+ {
+  "time": 203.07,
+  "sfx": "seriousShift",
+  "scene": 11
+ },
+ {
+  "time": 211.68,
+  "sfx": "laugh",
+  "scene": 11
+ },
+ {
+  "time": 213.5,
+  "sfx": "hangup",
+  "scene": 11
+ },
+ {
+  "time": 224.63,
+  "sfx": "typingSearch",
+  "scene": 12
+ },
+ {
+  "time": 227.25,
+  "sfx": "searchWhoosh",
+  "scene": 12
+ },
+ {
+  "time": 230.42,
+  "sfx": "failBuzzer",
+  "scene": 12
+ },
+ {
+  "time": 231.41,
+  "sfx": "rapidClicks",
+  "scene": 12
+ },
+ {
+  "time": 238.41,
+  "sfx": "failBuzzer",
+  "scene": 12
+ },
+ {
+  "time": 242.47,
+  "sfx": "ominousBass",
+  "scene": 12
+ },
+ {
+  "time": 246.09,
+  "sfx": "stressRiser",
+  "scene": 12
+ },
+ {
+  "time": 252.319,
+  "sfx": "urgentNotification",
+  "scene": 12
+ },
+ {
+  "time": 253.684,
+  "sfx": "urgentEmail",
+  "scene": 13
+ },
+ {
+  "time": 256.14,
+  "sfx": "slamNotification",
+  "scene": 13
+ },
+ {
+  "time": 258.7,
+  "sfx": "timerTickLoop",
+  "scene": 13
+ },
+ {
+  "time": 262.79,
+  "sfx": "typingCalm",
+  "scene": 13
+ },
+ {
+  "time": 275.85,
+  "sfx": "slamNotification",
+  "scene": 13
+ },
+ {
+  "time": 279.48,
+  "sfx": "iceFreeze",
+  "scene": 13
+ },
+ {
+  "time": 285.65,
+  "sfx": "glassCrack",
+  "scene": 13
+ },
+ {
+  "time": 288.29,
+  "sfx": "phoneDial",
+  "scene": 14
+ },
+ {
+  "time": 296.38,
+  "sfx": "phoneDial",
+  "scene": 14
+ },
+ {
+  "time": 299.39,
+  "sfx": "holdMusic",
+  "scene": 14
+ },
+ {
+  "time": 302.86,
+  "sfx": "answer",
+  "scene": 14
+ },
+ {
+  "time": 324.31,
+  "sfx": "tensionRiser",
+  "scene": 14
+ },
+ {
+  "time": 325.01,
+  "sfx": "revelationPulse",
+  "scene": 14
+ },
+ {
+  "time": 339.55,
+  "sfx": "hangupClick",
+  "scene": 14
+ },
+ {
+  "time": 341.77,
+  "sfx": "threatNotification",
+  "scene": 15
+ },
+ {
+  "time": 344.53,
+  "sfx": "scaryString",
+  "scene": 15
+ },
+ {
+  "time": 350.69,
+  "sfx": "nervousLaughEcho",
+  "scene": 15
+ },
+ {
+  "time": 357.05,
+  "sfx": "lightbulbDing",
+  "scene": 15
+ },
+ {
+  "time": 381.33,
+  "sfx": "typingCalm",
+  "scene": 15
+ },
+ {
+  "time": 403.749,
+  "sfx": "threatNotification",
+  "scene": 15
+ },
+ {
+  "time": 410.029,
+  "sfx": "nervousLaughEcho",
+  "scene": 15
+ },
+ {
+  "time": 411.329,
+  "sfx": "shieldAppear",
+  "scene": 15
+ },
+ {
+  "time": 415.479,
+  "sfx": "shatter",
+  "scene": 15
+ },
+ {
+  "time": 419.049,
+  "sfx": "cameraShutter",
+  "scene": 16
+ },
+ {
+  "time": 428.359,
+  "sfx": "uiPop",
+  "scene": 16
+ },
+ {
+  "time": 444.779,
+  "sfx": "alarm",
+  "scene": 16
+ },
+ {
+  "time": 448.549,
+  "sfx": "rapidClicks",
+  "scene": 16
+ },
+ {
+  "time": 471.089,
+  "sfx": "failBuzzer",
+  "scene": 16
+ },
+ {
+  "time": 474.949,
+  "sfx": "upgradeLevel",
+  "scene": 16
+ },
+ {
+  "time": 480.069,
+  "sfx": "toggle1",
+  "scene": 16
+ },
+ {
+  "time": 481.179,
+  "sfx": "toggle2",
+  "scene": 16
+ },
+ {
+  "time": 482.119,
+  "sfx": "toggle3",
+  "scene": 16
+ },
+ {
+  "time": 485.129,
+  "sfx": "slider",
+  "scene": 16
+ },
+ {
+  "time": 487.869,
+  "sfx": "checkbox",
+  "scene": 16
+ },
+ {
+  "time": 489.569,
+  "sfx": "breatheExhale",
+  "scene": 16
+ },
+ {
+  "time": 492.559,
+  "sfx": "attackDrop",
+  "scene": 16
+ },
+ {
+  "time": 494.419,
+  "sfx": "silenceWhoosh",
+  "scene": 16
+ },
+ {
+  "time": 499.869,
+  "sfx": "laughRelease",
+  "scene": 17
+ },
+ {
+  "time": 505.429,
+  "sfx": "confettiSprinkle",
+  "scene": 17
+ },
+ {
+  "time": 507.229,
+  "sfx": "dreamyChime",
+  "scene": 17
+ },
+ {
+  "time": 515.679,
+  "sfx": "contrastWhoosh",
+  "scene": 17
+ },
+ {
+  "time": 520.789,
+  "sfx": "morningBirds",
+  "scene": 17
+ },
+ {
+  "time": 528.539,
+  "sfx": "emailCautious",
+  "scene": 17
+ },
+ {
+  "time": 544.829,
+  "sfx": "laughWarm",
+  "scene": 17
+ },
+ {
+  "time": 547.319,
+  "sfx": "callPositive",
+  "scene": 18
+ },
+ {
+  "time": 556.119,
+  "sfx": "successChime",
+  "scene": 18
+ },
+ {
+  "time": 558.449,
+  "sfx": "successChime",
+  "scene": 18
+ },
+ {
+  "time": 562.919,
+  "sfx": "reorderDing",
+  "scene": 18
+ },
+ {
+  "time": 569.979,
+  "sfx": "upgradeLevel",
+  "scene": 18
+ },
+ {
+  "time": 570.979,
+  "sfx": "levelUp",
+  "scene": 18
+ },
+ {
+  "time": 585.749,
+  "sfx": "uiPop",
+  "scene": 18
+ },
+ {
+  "time": 609.159,
+  "sfx": "pop3Squeaky",
+  "scene": 18
+ },
+ {
+  "time": 614.549,
+  "sfx": "wisdomGong",
+  "scene": 18
+ },
+ {
+  "time": 617.849,
+  "sfx": "wisdomGong",
+  "scene": 18
+ },
+ {
+  "time": 622.729,
+  "sfx": "heartbeatSlow",
+  "scene": 18
+ },
+ {
+  "time": 628.649,
+  "sfx": "impactBoom",
+  "scene": 18
+ },
+ {
+  "time": 629.439,
+  "sfx": "wisdomGong",
+  "scene": 18
+ },
+ {
+  "time": 630.739,
+  "sfx": "outroFade",
+  "scene": 18
+ }
+]
