@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>5Star Auto — Precision Care. Honest Repairs. | North Austin Auto Repair</title>
+<meta name="description" content="5Star Auto is a family-owned auto repair shop in North Austin, Texas. Dependable automotive service, experienced technicians and free estimates. Call (512) 821-1360.">
+<meta name="theme-color" content="#07080a">
+
+<script>
+  // set theme before first paint — no flash, no layout shift
+  (function () {
+    try {
+      var t = localStorage.getItem('fsa-theme');
+      if (!t) t = window.matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark';
+      document.documentElement.setAttribute('data-theme', t);
+    } catch (e) {}
+  })();
+</script>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@600;700;800&family=Inter:wght@400;500&family=JetBrains+Mono:wght@400;500&display=swap">
+<link rel="preload" as="image" href="assets/bg-dark.jpg">
+<link rel="preload" as="image" href="assets/vehicle-dark.png">
+<link rel="stylesheet" href="styles/base.css">
+<link rel="stylesheet" href="styles/hero.css">
+<link rel="stylesheet" href="styles/home.css">
+</head>
+
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+
+<header class="site-header">
+  <div class="wrap site-header__inner">
+    <a class="brand" href="/" aria-label="5Star Auto — home">
+      <span class="brand__mark" aria-hidden="true">
+        <svg viewBox="0 0 24 24"><path d="M12 2l2.9 6.2 6.6.8-4.9 4.6 1.3 6.6L12 17l-5.9 3.2 1.3-6.6L2.5 9l6.6-.8z"/></svg>
+      </span>
+      <span>
+        <span class="brand__name">5STAR AUTO</span>
+        <span class="brand__sub">AUSTIN / TX</span>
+      </span>
+    </a>
+
+    <nav class="nav" aria-label="Primary">
+      <a class="nav__link" href="/services">Services</a>
+      <a class="nav__link" href="/estimate">Free Estimate</a>
+      <a class="nav__link nav__phone" href="tel:+15128211360">(512) 821-1360</a>
+      <button class="theme-toggle" data-theme-toggle type="button" aria-label="Switch theme">
+        <svg class="icon-moon" viewBox="0 0 24 24"><path d="M21 12.8A9 9 0 1111.2 3a7 7 0 009.8 9.8z"/></svg>
+        <svg class="icon-sun" viewBox="0 0 24 24"><circle cx="12" cy="12" r="4.2"/><path d="M12 2v2.4M12 19.6V22M2 12h2.4M19.6 12H22M4.9 4.9l1.7 1.7M17.4 17.4l1.7 1.7M19.1 4.9l-1.7 1.7M6.6 17.4l-1.7 1.7"/></svg>
+      </button>
+    </nav>
+  </div>
+</header>
+
+<main id="main">
+
+  <!-- ==================================================================
+       CINEMATIC HERO
+       =================================================================== -->
+  <section class="hero" data-hero aria-labelledby="hero-title">
+
+    <!-- Layer 01 — background plate -->
+    <div class="hero__bg" aria-hidden="true"></div>
+    <div class="hero__scrim" aria-hidden="true"></div>
+    <div class="hero__grain" aria-hidden="true"></div>
+
+    <!-- Layer 02 — atmospheric lighting -->
+    <div class="hero__atmos" aria-hidden="true">
+      <span class="glow glow--white"></span>
+      <span class="glow glow--red"></span>
+      <span class="streak"></span>
+      <span class="streak streak--2"></span>
+    </div>
+
+    <!-- Layer 04 — technical overlay -->
+    <div class="hero__tech" aria-hidden="true">
+      <svg viewBox="0 0 1600 900" preserveAspectRatio="xMidYMid slice">
+        <!-- coordinate grid -->
+        <line class="grid-line" x1="200" y1="0" x2="200" y2="900"/>
+        <line class="grid-line" x1="640" y1="0" x2="640" y2="900"/>
+        <line class="grid-line" x1="1080" y1="0" x2="1080" y2="900"/>
+        <line class="grid-line" x1="1400" y1="0" x2="1400" y2="900"/>
+        <line class="grid-line" x1="0" y1="180" x2="1600" y2="180"/>
+        <line class="grid-line" x1="0" y1="620" x2="1600" y2="620"/>
+
+        <!-- measurement ticks -->
+        <g>
+          <line class="tick" x1="1080" y1="150" x2="1080" y2="164"/>
+          <line class="tick" x1="1160" y1="150" x2="1160" y2="164"/>
+          <line class="tick" x1="1240" y1="150" x2="1240" y2="164"/>
+          <line class="tick" x1="1320" y1="150" x2="1320" y2="164"/>
+          <line class="tick" x1="1080" y1="157" x2="1320" y2="157"/>
+        </g>
+
+        <!-- alignment markers -->
+        <circle class="mark" cx="1080" cy="620" r="26"/>
+        <circle class="mark-red" cx="1080" cy="620" r="4"/>
+        <path class="mark" d="M1044 620h-16M1116 620h16M1080 584v-16M1080 656v16"/>
+        <rect class="mark" x="1332" y="236" width="78" height="46"/>
+        <path class="mark-red" d="M1332 236h14M1410 282h-14"/>
+
+        <!-- decorative labels -->
+        <text x="200" y="168" class="accent">5 STAR AUTO</text>
+        <text x="640" y="168">AUSTIN / TX</text>
+        <text x="1080" y="140">PRECISION SERVICE</text>
+        <text x="1332" y="226">AUTOMOTIVE SYSTEMS</text>
+        <text x="200" y="644">EST. 2009</text>
+        <text x="1120" y="624" class="accent">ALIGNMENT</text>
+      </svg>
+    </div>
+
+    <!-- Layer 03 — vehicle -->
+    <div class="hero__stage">
+      <div class="vehicle">
+        <span class="vehicle__shadow" aria-hidden="true"></span>
+        <img class="vehicle__img vehicle__img--dark" data-vehicle-img
+             src="assets/vehicle-dark.png" width="1055" height="470"
+             alt="Modern crossover SUV lit from the side in the 5Star Auto workshop"
+             fetchpriority="high" decoding="async">
+        <img class="vehicle__img vehicle__img--light" data-vehicle-img
+             src="assets/vehicle-light.png" width="1087" height="492"
+             alt="" aria-hidden="true" loading="lazy" decoding="async">
+
+        <!-- Layer 03b — hotspots -->
+        <div class="hotspots">
+          <button class="hotspot" data-hot type="button" aria-expanded="false"
+                  style="left: 39%; top: 72%;">
+            <span class="hotspot__dot" aria-hidden="true"></span>
+            <span class="hotspot__ring" aria-hidden="true"></span>
+            <span class="hotspot__line" aria-hidden="true"></span>
+            <span class="hotspot__panel">
+              <b>Wheel Alignment</b>
+              <span>Ask about wheel alignment services — alignments start at $60.</span>
+            </span>
+          </button>
+
+          <button class="hotspot" data-hot type="button" aria-expanded="false"
+                  style="left: 16%; top: 43%;">
+            <span class="hotspot__dot" aria-hidden="true"></span>
+            <span class="hotspot__ring" aria-hidden="true"></span>
+            <span class="hotspot__line" aria-hidden="true"></span>
+            <span class="hotspot__panel">
+              <b>Diagnostics</b>
+              <span>Discuss vehicle diagnostic and repair needs with the team.</span>
+            </span>
+          </button>
+
+          <button class="hotspot hotspot--flip" data-hot type="button" aria-expanded="false"
+                  style="left: 63%; top: 30%;">
+            <span class="hotspot__dot" aria-hidden="true"></span>
+            <span class="hotspot__ring" aria-hidden="true"></span>
+            <span class="hotspot__line" aria-hidden="true"></span>
+            <span class="hotspot__panel">
+              <b>Body &amp; Panel</b>
+              <span>Body repair and refinishing questions are welcome in person or by phone.</span>
+            </span>
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Layer 05 — cursor spotlight -->
+    <div class="hero__spot" aria-hidden="true"></div>
+
+    <!-- Layer 06 — typography -->
+    <div class="hero__content">
+      <div class="hero__col">
+        <p class="hero__label stage stage--4">5 Star Auto</p>
+        <p class="eyebrow stage stage--4">North Austin • Automotive Repair</p>
+
+        <h1 class="hero__title stage stage--5" id="hero-title">
+          Precision Care<span class="dot">.</span>
+          <span class="l2">Honest Repairs<span class="dot">.</span></span>
+        </h1>
+
+        <p class="hero__copy stage stage--6">
+          Dependable automotive service, experienced technicians, and straightforward
+          support to help keep you moving.
+        </p>
+
+        <div class="hero__actions">
+          <a class="btn stage stage--7" href="/estimate" data-magnetic>
+            <span class="btn__label">Get a Free Estimate</span>
+            <svg class="btn__arrow" width="16" height="10" viewBox="0 0 16 10" fill="none" aria-hidden="true">
+              <path d="M0 5h14M10 1l4 4-4 4" stroke="currentColor" stroke-width="1.3"/>
+            </svg>
+          </a>
+
+          <a class="link-underline stage stage--8" href="/services">
+            Explore Services
+            <svg viewBox="0 0 16 10" fill="none" aria-hidden="true">
+              <path d="M0 5h14M10 1l4 4-4 4" stroke="currentColor" stroke-width="1.3"/>
+            </svg>
+          </a>
+
+          <a class="hero__tel stage stage--8" href="tel:+15128211360">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6.6 10.8a15.1 15.1 0 006.6 6.6l2.2-2.2a1 1 0 011-.24 11.4 11.4 0 003.6.58 1 1 0 011 1V20a1 1 0 01-1 1A17 17 0 013 4a1 1 0 011-1h3.5a1 1 0 011 1 11.4 11.4 0 00.58 3.6 1 1 0 01-.25 1z"/></svg>
+            (512) 821-1360
+          </a>
+        </div>
+      </div>
+    </div>
+
+    <!-- Layer 07 — metadata + scroll indicator -->
+    <div class="hero__meta">
+      <div class="hero__meta-inner">
+        <span><i class="status-dot" aria-hidden="true"></i>Service Experience</span>
+        <span>Austin, Texas</span>
+        <span>Family Owned · Est. 2009</span>
+        <span>904 Prairie Trl · 78758</span>
+        <span>Mon–Fri · 9:00–5:00</span>
+      </div>
+    </div>
+
+    <button class="scroll-cue" data-scroll-cue data-target="#why" type="button">
+      <span class="scroll-cue__inner">
+        Scroll to Explore
+        <span class="scroll-cue__rail" aria-hidden="true"></span>
+      </span>
+    </button>
+
+    <div class="hero__fade" aria-hidden="true"></div>
+  </section>
+
+  <!-- ==================================================================
+       01 / WHY 5 STAR AUTO — continuation of the hero narrative
+       =================================================================== -->
+  <section class="section section--why" id="why">
+    <div class="seam" aria-hidden="true">
+      <span class="seam__line"></span>
+      <span class="seam__line seam__line--red"></span>
+    </div>
+
+    <div class="wrap">
+      <div class="section-head reveal">
+        <span class="section-num">01</span>
+        <span class="section-title"><i>/</i> <b>Why 5 Star Auto</b></span>
+      </div>
+
+      <div class="why-grid">
+        <div class="reveal">
+          <h2 class="big">A family-owned shop<br>built on trust.</h2>
+          <p class="lead">
+            Located in North Austin, 5Star Auto is a family-owned and operated car and auto
+            repair shop. The business is built on quality repair work, genuine customer
+            service and competitive pricing — finished promptly, so you don't have to worry.
+          </p>
+          <p class="lead">
+            Call the shop and schedule an appointment for a free estimate. Alignments start at $60.
+          </p>
+          <a class="link-underline" href="/estimate">
+            Request an estimate
+            <svg viewBox="0 0 16 10" fill="none" aria-hidden="true"><path d="M0 5h14M10 1l4 4-4 4" stroke="currentColor" stroke-width="1.3"/></svg>
+          </a>
+        </div>
+
+        <ul class="trust reveal">
+          <li><span class="trust__k">Est.</span><span class="trust__v">2009</span><span class="trust__d">Family owned and operated in North Austin.</span></li>
+          <li><span class="trust__k">Est.</span><span class="trust__v">Free</span><span class="trust__d">Estimates before work begins — just call ahead.</span></li>
+          <li><span class="trust__k">From</span><span class="trust__v">$60</span><span class="trust__d">Wheel alignments, one of the shop's specialties.</span></li>
+          <li><span class="trust__k">Hours</span><span class="trust__v">9–5</span><span class="trust__d">Monday to Friday. Closed Saturday and Sunday.</span></li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <!-- 02 / SERVICES -->
+  <section class="section section--services" id="services">
+    <div class="wrap">
+      <div class="section-head reveal">
+        <span class="section-num">02</span>
+        <span class="section-title"><i>/</i> <b>Service Capability</b></span>
+      </div>
+
+      <div class="cards">
+        <article class="card reveal">
+          <span class="card__idx">A—01</span>
+          <h3>Repair &amp; Maintenance</h3>
+          <p>General car and auto repair, maintenance and the everyday work that keeps a vehicle dependable.</p>
+        </article>
+        <article class="card reveal">
+          <span class="card__idx">A—02</span>
+          <h3>Wheel Alignment</h3>
+          <p>Alignments starting at $60. Regular alignment protects tires, steering feel and fuel economy.</p>
+        </article>
+        <article class="card reveal">
+          <span class="card__idx">A—03</span>
+          <h3>Body Repair &amp; Paint</h3>
+          <p>Automobile body repairing and painting, handled in-house by the 5Star Auto team.</p>
+        </article>
+        <article class="card reveal">
+          <span class="card__idx">A—04</span>
+          <h3>Personable Support</h3>
+          <p>Mechanics and staff available to assist in person, by phone or by email — no runaround.</p>
+        </article>
+      </div>
+
+      <div class="cta-band reveal">
+        <div>
+          <h2 class="big">Ready when you are.</h2>
+          <p class="lead">Call (512) 821-1360 and schedule an appointment for a free estimate.</p>
+        </div>
+        <div class="cta-band__actions">
+          <a class="btn" href="/estimate"><span class="btn__label">Get a Free Estimate</span>
+            <svg class="btn__arrow" width="16" height="10" viewBox="0 0 16 10" fill="none" aria-hidden="true"><path d="M0 5h14M10 1l4 4-4 4" stroke="currentColor" stroke-width="1.3"/></svg>
+          </a>
+          <a class="btn btn--ghost" href="tel:+15128211360"><span class="btn__label">Call (512) 821-1360</span></a>
+        </div>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="footer-grid">
+      <div>
+        <span class="brand__name">5STAR AUTO</span>
+        <p style="margin-top:14px;max-width:34ch">Family-owned car and auto repair in North Austin, Texas. Quality repair, honest service, competitive pricing.</p>
+      </div>
+      <div>
+        <h4>Visit</h4>
+        <p>904 Prairie Trl<br>Austin, TX 78758</p>
+        <p>Mon–Fri 9:00 AM – 5:00 PM<br>Sat &amp; Sun closed</p>
+      </div>
+      <div>
+        <h4>Contact</h4>
+        <ul>
+          <li><a href="tel:+15128211360">(512) 821-1360</a></li>
+          <li><a href="/estimate">Free estimate</a></li>
+          <li><a href="/services">Services</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom mono">
+      <span>© 2026 5Star Auto · Austin, Texas</span>
+      <span>Demo website · Interface concept</span>
+    </div>
+  </div>
+</footer>
+
+<script src="scripts/hero.js" defer></script>
+</body>
+</html>
