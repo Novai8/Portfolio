@@ -1,0 +1,735 @@
+{
+  "source_file": "assets/audio/source/day-02-voiceover-source.mp3",
+  "google_drive_id": "1gzTUpggyWjk-QiLz-9kEojlEl95YOB_u",
+  "google_drive_name": "ElevenLabs_2026-10-26T15_26_39_Adam - Radio Announcer_pvc_sp100_s45_sb55_v4.mp3",
+  "drive_created_time": "2026-10-26T15:27:58.539Z",
+  "drive_modified_time": "2026-10-26T15:27:24.660Z",
+  "sample_rate_hz": 44100,
+  "channels": 1,
+  "bitrate_bps": 128000,
+  "measured_duration_s": 130.04,
+  "analysis": "ffmpeg silencedetect(-32dB,0.30s) fused with offline PocketSphinx word timestamps via difflib alignment to the canonical Day 2 script",
+  "sentences": [
+    {
+      "index": 0,
+      "text": "Yesterday, I found out that my world was going to restart in 100 days.",
+      "start": 0.205,
+      "end": 4.853
+    },
+    {
+      "index": 1,
+      "text": "Then some random stickman looked me dead in the eyes and told me I wasn't real.",
+      "start": 4.873,
+      "end": 10.004
+    },
+    {
+      "index": 2,
+      "text": "Naturally, I decided to find him.",
+      "start": 10.371,
+      "end": 12.388
+    },
+    {
+      "index": 3,
+      "text": "The problem? He had literally vanished into thin air.",
+      "start": 12.817,
+      "end": 15.976
+    },
+    {
+      "index": 4,
+      "text": "I spent the next six hours searching the city, following strange glitches that appeared whenever I got close to something unusual.",
+      "start": 16.36,
+      "end": 23.795
+    },
+    {
+      "index": 5,
+      "text": "A streetlight flickered whenever I walked underneath it.",
+      "start": 24.181,
+      "end": 26.52
+    },
+    {
+      "index": 6,
+      "text": "Every clock showed 11:11.",
+      "start": 26.609,
+      "end": 28.595
+    },
+    {
+      "index": 7,
+      "text": "And one building had my apartment number on every single door.",
+      "start": 29.09,
+      "end": 32.824
+    },
+    {
+      "index": 8,
+      "text": "Then I found a message scratched into a wall.",
+      "start": 34.007,
+      "end": 36.577
+    },
+    {
+      "index": 9,
+      "text": "STOP LOOKING FOR ME.",
+      "start": 37.09,
+      "end": 38.498
+    },
+    {
+      "index": 10,
+      "text": "Great. A mysterious warning from a guy who apparently doesn't believe in privacy.",
+      "start": 38.97,
+      "end": 43.316
+    },
+    {
+      "index": 11,
+      "text": "I was about to leave when another message appeared beneath it.",
+      "start": 43.763,
+      "end": 46.5
+    },
+    {
+      "index": 12,
+      "text": "LOOK UP.",
+      "start": 46.913,
+      "end": 47.733
+    },
+    {
+      "index": 13,
+      "text": "So I did.",
+      "start": 49.335,
+      "end": 50.4
+    },
+    {
+      "index": 14,
+      "text": "There he was, standing on top of a building that definitely hadn't existed five seconds earlier.",
+      "start": 50.792,
+      "end": 55.978
+    },
+    {
+      "index": 15,
+      "text": "I ran upstairs, nearly fell through a staircase that kept changing direction, and finally reached the roof.",
+      "start": 57.43,
+      "end": 63.133
+    },
+    {
+      "index": 16,
+      "text": "He was waiting for me.",
+      "start": 63.502,
+      "end": 64.446
+    },
+    {
+      "index": 17,
+      "text": "I asked him the obvious question.",
+      "start": 64.837,
+      "end": 66.409
+    },
+    {
+      "index": 18,
+      "text": "Who are you?",
+      "start": 66.847,
+      "end": 67.591
+    },
+    {
+      "index": 19,
+      "text": "He looked at me and said, I'm the reason you're still alive.",
+      "start": 68.062,
+      "end": 71.683
+    },
+    {
+      "index": 20,
+      "text": "Before I could ask what that meant, he grabbed my arm and showed me something on his wrist.",
+      "start": 72.114,
+      "end": 76.276
+    },
+    {
+      "index": 21,
+      "text": "A countdown.",
+      "start": 76.296,
+      "end": 76.776
+    },
+    {
+      "index": 22,
+      "text": "The exact same countdown floating above my head.",
+      "start": 76.796,
+      "end": 80.311
+    },
+    {
+      "index": 23,
+      "text": "Except his didn't say 98 days.",
+      "start": 80.648,
+      "end": 82.833
+    },
+    {
+      "index": 24,
+      "text": "It said zero.",
+      "start": 82.853,
+      "end": 84.85
+    },
+    {
+      "index": 25,
+      "text": "Then the sky started breaking apart.",
+      "start": 85.79,
+      "end": 87.978
+    },
+    {
+      "index": 26,
+      "text": "He looked straight at me and whispered, when the timer reaches zero, the world doesn't restart.",
+      "start": 87.998,
+      "end": 93.185
+    },
+    {
+      "index": 27,
+      "text": "He paused.",
+      "start": 93.717,
+      "end": 94.217
+    },
+    {
+      "index": 28,
+      "text": "YOU do.",
+      "start": 94.237,
+      "end": 94.737
+    },
+    {
+      "index": 29,
+      "text": "And then every person in the city turned their head toward us at the exact same time.",
+      "start": 94.757,
+      "end": 99.101
+    },
+    {
+      "index": 30,
+      "text": "The mysterious stickman shoved a key into my hand.",
+      "start": 99.414,
+      "end": 101.899
+    },
+    {
+      "index": 31,
+      "text": "Find the room with no door, he said.",
+      "start": 102.258,
+      "end": 104.61
+    },
+    {
+      "index": 32,
+      "text": "And whatever you do, don't trust the version of me you meet tomorrow.",
+      "start": 104.63,
+      "end": 108.116
+    },
+    {
+      "index": 33,
+      "text": "Then he disappeared.",
+      "start": 108.545,
+      "end": 109.8
+    },
+    {
+      "index": 34,
+      "text": "Now I've got a key that opens absolutely nothing, an entire city staring at me, and apparently another version of this guy coming tomorrow.",
+      "start": 110.339,
+      "end": 118.047
+    },
+    {
+      "index": 35,
+      "text": "So what do I do?",
+      "start": 118.349,
+      "end": 119.875
+    },
+    {
+      "index": 36,
+      "text": "A: Search for the room with no door.",
+      "start": 119.895,
+      "end": 122.032
+    },
+    {
+      "index": 37,
+      "text": "B: Find out why everyone in the city is watching me.",
+      "start": 122.052,
+      "end": 125.565
+    },
+    {
+      "index": 38,
+      "text": "Because something tells me this world is hiding a lot more than a few glitches.",
+      "start": 125.585,
+      "end": 129.72
+    }
+  ],
+  "pauses": [
+    {
+      "start": 4.853,
+      "end": 5.211,
+      "duration": 0.358
+    },
+    {
+      "start": 5.572,
+      "end": 5.985,
+      "duration": 0.413
+    },
+    {
+      "start": 10.004,
+      "end": 10.371,
+      "duration": 0.367
+    },
+    {
+      "start": 12.388,
+      "end": 12.817,
+      "duration": 0.429
+    },
+    {
+      "start": 13.366,
+      "end": 13.668,
+      "duration": 0.302
+    },
+    {
+      "start": 15.976,
+      "end": 16.36,
+      "duration": 0.384
+    },
+    {
+      "start": 16.632,
+      "end": 17.183,
+      "duration": 0.551
+    },
+    {
+      "start": 23.795,
+      "end": 24.181,
+      "duration": 0.387
+    },
+    {
+      "start": 26.609,
+      "end": 26.966,
+      "duration": 0.357
+    },
+    {
+      "start": 29.09,
+      "end": 29.429,
+      "duration": 0.339
+    },
+    {
+      "start": 32.824,
+      "end": 34.007,
+      "duration": 1.182
+    },
+    {
+      "start": 36.577,
+      "end": 37.002,
+      "duration": 0.425
+    },
+    {
+      "start": 38.498,
+      "end": 38.97,
+      "duration": 0.473
+    },
+    {
+      "start": 43.316,
+      "end": 43.763,
+      "duration": 0.447
+    },
+    {
+      "start": 46.5,
+      "end": 46.913,
+      "duration": 0.413
+    },
+    {
+      "start": 47.733,
+      "end": 48.323,
+      "duration": 0.589
+    },
+    {
+      "start": 48.897,
+      "end": 49.331,
+      "duration": 0.433
+    },
+    {
+      "start": 50.4,
+      "end": 50.792,
+      "duration": 0.392
+    },
+    {
+      "start": 55.978,
+      "end": 56.312,
+      "duration": 0.334
+    },
+    {
+      "start": 63.133,
+      "end": 63.502,
+      "duration": 0.369
+    },
+    {
+      "start": 64.446,
+      "end": 64.837,
+      "duration": 0.391
+    },
+    {
+      "start": 66.409,
+      "end": 66.847,
+      "duration": 0.439
+    },
+    {
+      "start": 67.591,
+      "end": 68.062,
+      "duration": 0.471
+    },
+    {
+      "start": 69.312,
+      "end": 69.657,
+      "duration": 0.345
+    },
+    {
+      "start": 71.683,
+      "end": 72.114,
+      "duration": 0.431
+    },
+    {
+      "start": 76.276,
+      "end": 76.624,
+      "duration": 0.347
+    },
+    {
+      "start": 77.336,
+      "end": 77.721,
+      "duration": 0.384
+    },
+    {
+      "start": 80.311,
+      "end": 80.648,
+      "duration": 0.337
+    },
+    {
+      "start": 82.833,
+      "end": 83.223,
+      "duration": 0.389
+    },
+    {
+      "start": 83.37,
+      "end": 84.047,
+      "duration": 0.677
+    },
+    {
+      "start": 85.323,
+      "end": 85.79,
+      "duration": 0.467
+    },
+    {
+      "start": 87.978,
+      "end": 88.299,
+      "duration": 0.321
+    },
+    {
+      "start": 89.887,
+      "end": 90.228,
+      "duration": 0.341
+    },
+    {
+      "start": 93.185,
+      "end": 93.717,
+      "duration": 0.531
+    },
+    {
+      "start": 94.179,
+      "end": 94.752,
+      "duration": 0.573
+    },
+    {
+      "start": 99.101,
+      "end": 99.414,
+      "duration": 0.312
+    },
+    {
+      "start": 101.899,
+      "end": 102.258,
+      "duration": 0.359
+    },
+    {
+      "start": 108.116,
+      "end": 108.545,
+      "duration": 0.429
+    },
+    {
+      "start": 109.837,
+      "end": 110.339,
+      "duration": 0.502
+    },
+    {
+      "start": 118.047,
+      "end": 118.349,
+      "duration": 0.301
+    },
+    {
+      "start": 119.472,
+      "end": 119.875,
+      "duration": 0.402
+    },
+    {
+      "start": 122.032,
+      "end": 122.339,
+      "duration": 0.307
+    },
+    {
+      "start": 129.733,
+      "end": 130.038,
+      "duration": 0.305
+    }
+  ],
+  "story_beats": {
+    "scene1_search_begins": [
+      {
+        "index": 0,
+        "text": "Yesterday, I found out that my world was going to restart in 100 days.",
+        "start": 0.205,
+        "end": 4.853
+      },
+      {
+        "index": 1,
+        "text": "Then some random stickman looked me dead in the eyes and told me I wasn't real.",
+        "start": 4.873,
+        "end": 10.004
+      },
+      {
+        "index": 2,
+        "text": "Naturally, I decided to find him.",
+        "start": 10.371,
+        "end": 12.388
+      },
+      {
+        "index": 3,
+        "text": "The problem? He had literally vanished into thin air.",
+        "start": 12.817,
+        "end": 15.976
+      }
+    ],
+    "scene2_montage": [
+      {
+        "index": 4,
+        "text": "I spent the next six hours searching the city, following strange glitches that appeared whenever I got close to something unusual.",
+        "start": 16.36,
+        "end": 23.795
+      },
+      {
+        "index": 5,
+        "text": "A streetlight flickered whenever I walked underneath it.",
+        "start": 24.181,
+        "end": 26.52
+      },
+      {
+        "index": 6,
+        "text": "Every clock showed 11:11.",
+        "start": 26.609,
+        "end": 28.595
+      },
+      {
+        "index": 7,
+        "text": "And one building had my apartment number on every single door.",
+        "start": 29.09,
+        "end": 32.824
+      }
+    ],
+    "scene3_first_warning": [
+      {
+        "index": 8,
+        "text": "Then I found a message scratched into a wall.",
+        "start": 34.007,
+        "end": 36.577
+      },
+      {
+        "index": 9,
+        "text": "STOP LOOKING FOR ME.",
+        "start": 37.09,
+        "end": 38.498
+      },
+      {
+        "index": 10,
+        "text": "Great. A mysterious warning from a guy who apparently doesn't believe in privacy.",
+        "start": 38.97,
+        "end": 43.316
+      }
+    ],
+    "scene4_second_message": [
+      {
+        "index": 11,
+        "text": "I was about to leave when another message appeared beneath it.",
+        "start": 43.763,
+        "end": 46.5
+      },
+      {
+        "index": 12,
+        "text": "LOOK UP.",
+        "start": 46.913,
+        "end": 47.733
+      },
+      {
+        "index": 13,
+        "text": "So I did.",
+        "start": 49.335,
+        "end": 50.4
+      }
+    ],
+    "scene5_building_reveal": [
+      {
+        "index": 14,
+        "text": "There he was, standing on top of a building that definitely hadn't existed five seconds earlier.",
+        "start": 50.792,
+        "end": 55.978
+      }
+    ],
+    "scene6_impossible_staircase": [
+      {
+        "index": 15,
+        "text": "I ran upstairs, nearly fell through a staircase that kept changing direction, and finally reached the roof.",
+        "start": 57.43,
+        "end": 63.133
+      }
+    ],
+    "scene7_rooftop_confrontation": [
+      {
+        "index": 16,
+        "text": "He was waiting for me.",
+        "start": 63.502,
+        "end": 64.446
+      },
+      {
+        "index": 17,
+        "text": "I asked him the obvious question.",
+        "start": 64.837,
+        "end": 66.409
+      },
+      {
+        "index": 18,
+        "text": "Who are you?",
+        "start": 66.847,
+        "end": 67.591
+      }
+    ],
+    "scene9_alive_revelation": [
+      {
+        "index": 19,
+        "text": "He looked at me and said, I'm the reason you're still alive.",
+        "start": 68.062,
+        "end": 71.683
+      }
+    ],
+    "scene10_zero_countdown": [
+      {
+        "index": 20,
+        "text": "Before I could ask what that meant, he grabbed my arm and showed me something on his wrist.",
+        "start": 72.114,
+        "end": 76.276
+      },
+      {
+        "index": 21,
+        "text": "A countdown.",
+        "start": 76.296,
+        "end": 76.776
+      },
+      {
+        "index": 22,
+        "text": "The exact same countdown floating above my head.",
+        "start": 76.796,
+        "end": 80.311
+      },
+      {
+        "index": 23,
+        "text": "Except his didn't say 98 days.",
+        "start": 80.648,
+        "end": 82.833
+      },
+      {
+        "index": 24,
+        "text": "It said zero.",
+        "start": 82.853,
+        "end": 84.85
+      }
+    ],
+    "scene11_sky_breaks": [
+      {
+        "index": 25,
+        "text": "Then the sky started breaking apart.",
+        "start": 85.79,
+        "end": 87.978
+      },
+      {
+        "index": 26,
+        "text": "He looked straight at me and whispered, when the timer reaches zero, the world doesn't restart.",
+        "start": 87.998,
+        "end": 93.185
+      }
+    ],
+    "scene12_you_do_twist": [
+      {
+        "index": 27,
+        "text": "He paused.",
+        "start": 93.717,
+        "end": 94.217
+      },
+      {
+        "index": 28,
+        "text": "YOU do.",
+        "start": 94.237,
+        "end": 94.737
+      }
+    ],
+    "scene13_city_turns": [
+      {
+        "index": 29,
+        "text": "And then every person in the city turned their head toward us at the exact same time.",
+        "start": 94.757,
+        "end": 99.101
+      }
+    ],
+    "scene14_15_key_and_room": [
+      {
+        "index": 30,
+        "text": "The mysterious stickman shoved a key into my hand.",
+        "start": 99.414,
+        "end": 101.899
+      },
+      {
+        "index": 31,
+        "text": "Find the room with no door, he said.",
+        "start": 102.258,
+        "end": 104.61
+      }
+    ],
+    "scene16_warning_tomorrow": [
+      {
+        "index": 32,
+        "text": "And whatever you do, don't trust the version of me you meet tomorrow.",
+        "start": 104.63,
+        "end": 108.116
+      }
+    ],
+    "scene17_disappearance": [
+      {
+        "index": 33,
+        "text": "Then he disappeared.",
+        "start": 108.545,
+        "end": 109.8
+      }
+    ],
+    "scene18_isolation": [
+      {
+        "index": 34,
+        "text": "Now I've got a key that opens absolutely nothing, an entire city staring at me, and apparently another version of this guy coming tomorrow.",
+        "start": 110.339,
+        "end": 118.047
+      }
+    ],
+    "scene19_choices": [
+      {
+        "index": 35,
+        "text": "So what do I do?",
+        "start": 118.349,
+        "end": 119.875
+      },
+      {
+        "index": 36,
+        "text": "A: Search for the room with no door.",
+        "start": 119.895,
+        "end": 122.032
+      },
+      {
+        "index": 37,
+        "text": "B: Find out why everyone in the city is watching me.",
+        "start": 122.052,
+        "end": 125.565
+      },
+      {
+        "index": 38,
+        "text": "Because something tells me this world is hiding a lot more than a few glitches.",
+        "start": 125.585,
+        "end": 129.72
+      }
+    ]
+  }
+}

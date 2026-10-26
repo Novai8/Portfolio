@@ -1,0 +1,10 @@
+# Large regenerable binaries (rebuild via sound_engine.py / mix.py / render.py)
+assets/audio/stems/
+assets/audio/day-02-mix-pre.wav
+assets/audio/day-02-final-mix.wav
+assets/audio/source/day-02-voiceover-48k.wav
+renders/
+
+# Python
+__pycache__/
+*.pyc
