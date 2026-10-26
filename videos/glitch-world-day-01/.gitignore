@@ -1,0 +1,4 @@
+# render scratch space: frames, logs, intermediate encodes (never committed)
+.work/
+__pycache__/
+*.pyc
